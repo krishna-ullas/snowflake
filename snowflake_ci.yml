@@ -6,7 +6,6 @@ TAGS:
   - "objects"
   - "dynamic"
 SCHEMAS:
-  - finance
-  - marketing
-  - hr
-
+  - "SCHEMA_NULL"
+  - "SCHEMA_A"
+  - "SCHEMA_B"
