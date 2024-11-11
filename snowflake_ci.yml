@@ -5,4 +5,8 @@ TAGS:
   - "krishna-ullas"
   - "objects"
   - "dynamic"
+SCHEMAS:
+  - finance
+  - marketing
+  - hr
 
